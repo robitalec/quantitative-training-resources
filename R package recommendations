@@ -9,3 +9,8 @@ Please edit this page to add your recommended R packages for all computers in bi
 1. markdown
 1. shiny
 1. tidyr
+1. data.table
+1. knitr
+1. tinytex
+1. devtools
+1. remotes
